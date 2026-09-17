@@ -1,0 +1,1 @@
+# LAB4_Logic_KR_DePaz.ipynb
